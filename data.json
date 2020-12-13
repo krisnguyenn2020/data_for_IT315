@@ -1,0 +1,76 @@
+{
+  "Restaurants": [
+    {
+      "name": "McDonald",
+      "desc": "McDonald's Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+      "Hour": "4:30AM - 11:00PM",
+      "Open": 4.5,
+      "Close": 23,
+      "Price": "$",
+      "Rating": 3.3,
+      "City": "Chantilly",
+      "Image": "McDonald.jpg",
+      "SiteURL": "https://www.mcdonalds.com/us/en-us.html"
+    },
+    {
+      "name": "Taco Bell",
+      "desc": "Taco Bell is an American-based chain of fast food restaurants originating in Irvine, California in 1962, by founder Glen Bell. Taco Bell is a subsidiary of Yum! Brands, Inc.",
+      "Hour": "7AM - 11:30PM",
+      "Open": 7,
+      "Close": 23,
+      "Price": "$$",
+      "Rating": 4.2,
+      "City": "Chantilly",
+      "Image": "",
+      "SiteURL": "https://www.tacobell.com/"
+    },
+    {
+      "name": "Cava",
+      "desc": "CAVA is a fast-casual serving modern Mediterranean customizable and curated bowls, salads and pitas with flavor-forward ingredients, made in-house every day. The restaurant is piloting drive-thru-style pickups at several locations.",
+      "Hour": "10:45AM - 10PM",
+      "Open": 11,
+      "Close": 22,
+      "Price": "$$$",
+      "Rating": 4.5,
+      "City": "Fairfax",
+      "Image": "",
+      "SiteURL": "https://cava.com/"
+    },
+    {
+      "name": "Chick-fil-A",
+      "desc": "McDonald's Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+      "Hour": "4:30AM - 11:00PM",
+      "Open": 6,
+      "Close": 21,
+      "Price": "$$$",
+      "Rating": 4.0,
+      "City": "Chantilly",
+      "Image": "",
+      "SiteURL": "https://www.chick-fil-a.com/"
+    },
+    {
+      "name": "Dominos Pizza",
+      "desc": "Domino's Pizza, Inc., branded as Domino's, is an American multinational pizza restaurant chain founded in 1961. The corporation is Delaware-domiciled and headquartered at the Domino's Farms Office Park in Ann Arbor, Michigan.",
+      "Hour": "10:00AM - 10PM",
+      "Open": 10,
+      "Close": 22,
+      "Price": "$$$",
+      "Rating": 3.8,
+      "City": "Centreville",
+      "Image": "",
+      "SiteURL": "https://www.dominos.com/en/"
+    },
+    {
+      "name": "Popeyes",
+      "desc": "Popeyes is an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana and headquartered in Miami, Florida.",
+      "Hour": "9:30AM - 10PM",
+      "Open": 9,
+      "Close": 22,
+      "Price": "$$",
+      "Rating": 4.1,
+      "City": "Fairfax",
+      "Image": "",
+      "SiteURL": "https://www.popeyes.com/"
+    }
+  ]
+}
