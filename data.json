@@ -7,7 +7,7 @@
       "Open": 4.5,
       "Close": 23,
       "Price": "$",
-      "Rating": 3.3,
+      "Rating": "3.3",
       "City": "Chantilly",
       "Image": "https://raw.githubusercontent.com/krisnguyenn2020/data_for_IT315/main/McDonald.jpg",
       "SiteURL": "https://www.mcdonalds.com/us/en-us.html"
@@ -19,7 +19,7 @@
       "Open": 7,
       "Close": 23,
       "Price": "$$",
-      "Rating": 4.2,
+      "Rating": "4.2",
       "City": "Chantilly",
       "Image": "https://raw.githubusercontent.com/krisnguyenn2020/data_for_IT315/main/TacoBell.jpeg",
       "SiteURL": "https://www.tacobell.com/"
@@ -31,7 +31,7 @@
       "Open": 11,
       "Close": 22,
       "Price": "$$$",
-      "Rating": 4.5,
+      "Rating": "4.5",
       "City": "Fairfax",
       "Image": "https://raw.githubusercontent.com/krisnguyenn2020/data_for_IT315/main/CAVA.jpg",
       "SiteURL": "https://cava.com/"
@@ -43,7 +43,7 @@
       "Open": 6,
       "Close": 21,
       "Price": "$$$",
-      "Rating": 4.0,
+      "Rating": "4.0",
       "City": "Chantilly",
       "Image": "https://raw.githubusercontent.com/krisnguyenn2020/data_for_IT315/main/ChickFila.jpg",
       "SiteURL": "https://www.chick-fil-a.com/"
@@ -55,7 +55,7 @@
       "Open": 10,
       "Close": 22,
       "Price": "$$$",
-      "Rating": 3.8,
+      "Rating": "3.8",
       "City": "Centreville",
       "Image": "https://raw.githubusercontent.com/krisnguyenn2020/data_for_IT315/main/dominos.jpg",
       "SiteURL": "https://www.dominos.com/en/"
@@ -67,7 +67,7 @@
       "Open": 9,
       "Close": 22,
       "Price": "$$",
-      "Rating": 4.1,
+      "Rating": "4.1",
       "City": "Fairfax",
       "Image": "https://raw.githubusercontent.com/krisnguyenn2020/data_for_IT315/main/PopeyesMeal.jpg",
       "SiteURL": "https://www.popeyes.com/"
